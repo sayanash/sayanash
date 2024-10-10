@@ -1,16 +1,92 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Sayan Ash</h1>
 
-<!--
-**sayanash/sayanash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=3498db&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Android+%26+Web+Enthusiast;Open+Source+Contributor" alt="Typing SVG">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently working with **Angular & Spring Boot**
+- 📫 Learning **Backend Development**
+- 🌱 Passionate about creating seamless, responsive digital experiences
+- ✉️ Reach me at: [sayanash347200@gmail.com](mailto:sayanash347200@gmail.com)
+- ⚡ Passionate about **Full-Stack Development** and **Tech Innovations!**
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://github.com/sayanash" target="_blank">
+    <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://www.instagram.com/s.y.n__a.s.h" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sayanash" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+  <a href="https://twitter.com/sayan_ash_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java Badge" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Badge" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Badge" /><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,figma,mysql,androidstudio,git,github,postman&perline=13" alt="Languages and Tools" />
+</p>
+
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayanash&show_icons=true&theme=blueberry" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanash&theme=blueberry" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 🔝 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanash&layout=compact&theme=blueberry" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sayanash&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🖥️ Latest Projects
+- 🌐 [**Project 1: Simple-TODO**](https://github.com/sayanash/HackathonProject-AIBashers-SimpleTODO)  
+  A simple and lightweight to-do list application built using HTML, CSS, and JavaScript.  
+
+**Features:** 
+  - Add New Tasks
+  - Mark Tasks as Completed
+  - Delete Tasks
+  - Persist Tasks in Local Storage  
+  
+**Technologies Used:** HTML, CSS, JavaScript
+
+- ⚒️ More projects are in development and will be published soon!
+
+---
+
+### ✨ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+⭐️ From [sayanash](https://github.com/sayanash)
