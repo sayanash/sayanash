@@ -37,10 +37,8 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java Badge" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Badge" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Badge" /><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,figma,mysql,androidstudio,git,github,postman&perline=13" alt="Languages and Tools" />
+      <img src="https://skillicons.dev/icons?i=angular,arduino,aws,bootstrap,c,css,figma,firebase,git,html,java,javascript,kotlin,matlab,mysql,nodejs,photoshop,tailwind,php,postman,python,spring" />
+
 </p>
 
 
