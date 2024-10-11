@@ -1,3 +1,5 @@
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanash&label=Profile%20views&color=0e75b6&style=flat" alt="sayanash" /> </p>
+
 <h1 align="center">👋 Hi, I'm Sayan Ash</h1>
 
 <p align="center">
@@ -67,7 +69,7 @@
 ---
 
 ### 🖥️ Latest Projects
-- 🌐 [**Project 1: Simple-TODO**](https://github.com/sayanash/HackathonProject-AIBashers-SimpleTODO)  
+- 🌐 [**Simple-TODO**](https://github.com/sayanash/HackathonProject-AIBashers-SimpleTODO)  
   A simple and lightweight to-do list application built using HTML, CSS, and JavaScript.  
 
 **Features:** 
