@@ -50,12 +50,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanash&theme=blueberry" alt="GitHub Streak Stats" />
 </p>
 
----
 
-### 🔝 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanash&layout=compact&theme=blueberry" alt="Top Languages" />
-</p>
 
 ---
 
