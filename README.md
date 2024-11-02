@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=3498db&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Android+%26+Web+Enthusiast;Open+Source+Contributor" alt="Typing SVG">
 </p>
+
 ---
 
 ### 🚀 About Me
