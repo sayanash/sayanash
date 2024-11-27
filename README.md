@@ -61,21 +61,6 @@
 
 ---
 
-### 🖥️ Latest Projects
-- 🌐 [**Simple-TODO**](https://github.com/sayanash/HackathonProject-AIBashers-SimpleTODO)  
-  A simple and lightweight to-do list application built using HTML, CSS, and JavaScript.  
-
-**Features:** 
-  - Add New Tasks
-  - Mark Tasks as Completed
-  - Delete Tasks
-  - Persist Tasks in Local Storage  
-  
-**Technologies Used:** HTML, CSS, JavaScript
-
-- ⚒️ More projects are in development and will be published soon!
-
----
 
 ### ✨ Random Dev Quote
 <p align="center">
